@@ -1,5 +1,3 @@
-# Videojuego-Los-pepos-Grupo-12
-
 ## Juan Camilo Trujillo Candela
 
 <img width="400"  alt="Foto Juan Camilo" src="https://github.com/user-attachments/assets/f15ac9a6-931b-42a4-8112-35ad5432560f" />
