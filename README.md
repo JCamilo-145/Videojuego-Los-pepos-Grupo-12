@@ -9,3 +9,6 @@
 - **Rol:** Game Designer
 - **Ubicación:** Garzón, Huila, Colombia
 - **Perfil breve:** Estudiante de Ingeniería en Multimedia en la UNAD, con experiencia como QA Tester Junior. Apasionado por el desarrollo de videojuegos y las tecnologías interactivas.
+
+# Videojuego-Los-pepos-Grupo-12
+
