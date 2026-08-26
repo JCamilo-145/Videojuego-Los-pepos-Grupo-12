@@ -49,7 +49,7 @@
 
 ## María Fernanda Cruz
 
-![Foto María Fernanda](Maria/foto_maria.png)
+![Foto María Fernanda](Maria/foto_maria.jpeg)
 
 **Ubicación:** Bogotá, Colombia  
 **Rol:** Por definir 
