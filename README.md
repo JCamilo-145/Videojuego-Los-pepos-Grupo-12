@@ -45,3 +45,18 @@
 #### PERFIL: Mi nombre es lina pantoja tengo 27 años me gusta cantar y leer, soy estudiante de la UNAD Y Curso ingeniería multimedia.
 
 
+
+
+## María Fernanda Cruz
+
+![Foto María Fernanda](Maria/foto_maria.png)
+
+**Ubicación:** Bogotá, Colombia  
+**Rol:** Por definir 
+
+Tengo 19 años y soy estudiante de Ingeniería de Sistemas e Ingeniería Multimedia. Me gusta la tecnología, la programación y aprender cosas nuevas.
+### Mi plato favorito
+
+Mi plato favorito es la punta de anca acompañada de papa en casco.
+
+![Punta de anca con papa en casco](Maria/punta_anca_papa_casco.png)
