@@ -28,3 +28,21 @@
 ### Rol Entregas: Entregas
 ### Ubicación: Tesalia - Huila
 #### Perfil Breve: Mi nombre es Ever Daniel Medina Martinez, estudio Ingeniería Multimedia.
+
+
+## Lina Fernanda Pantoja moreno 
+
+ 
+ ### MI PLATO FAVORITO 
+ <img width="1236" height="1129" alt="image" src="https://github.com/user-attachments/assets/df776778-ba96-4b0b-8508-58ad11639103" />
+ 
+
+### MI FOTO PERSONAL 
+<img width="1440" height="1326" alt="FOTO PERSONAL" src="https://github.com/user-attachments/assets/00337d40-9105-4243-9c41-50774150cacb" />
+
+
+### ROL: Editor, ilustrador, alertas y programador 
+### ubicación: Melgar - Tolima 
+#### PERFIL: Mi nombre es lina pantoja tengo 27 años me gusta cantar y leer, soy estudiante de la UNAD Y Curso ingeniería multimedia.
+
+
