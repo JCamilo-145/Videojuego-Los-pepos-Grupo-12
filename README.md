@@ -13,7 +13,7 @@
 - **Perfil breve:** Estudiante de Ingeniería en Multimedia en la UNAD, con experiencia como QA Tester Junior. Apasionado por el desarrollo de videojuegos y las tecnologías interactivas.
 
 
-# Nombre: Ever Daniel Medina Martinez
+# Ever Daniel Medina Martinez
 
 ## Plato Favorito
 <img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/0c1336e5-54b6-42c9-b8b1-1b1166ac611f" />
