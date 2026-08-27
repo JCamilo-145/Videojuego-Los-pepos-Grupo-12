@@ -49,7 +49,7 @@
 
 ## María Fernanda Cruz
 
-<img width="900" height="1600" alt="foto_maria" src="https://github.com/user-attachments/assets/cc94953c-2ded-44f0-9259-e9136a2f3014" />
+<img width="447" height="447" alt="foto_maria" src="https://github.com/user-attachments/assets/cc94953c-2ded-44f0-9259-e9136a2f3014" />
 
 **Ubicación:** Bogotá, Colombia  
 **Rol:** Por definir 
