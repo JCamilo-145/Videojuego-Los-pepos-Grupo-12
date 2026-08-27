@@ -49,7 +49,7 @@
 
 ## María Fernanda Cruz
 
-<img src="Maria/foto_maria.jpeg" width="220">
+<img width="900" height="1600" alt="foto_maria" src="https://github.com/user-attachments/assets/cc94953c-2ded-44f0-9259-e9136a2f3014" />
 
 **Ubicación:** Bogotá, Colombia  
 **Rol:** Por definir 
@@ -59,4 +59,5 @@ Tengo 19 años y soy estudiante de Ingeniería de Sistemas e Ingeniería Multime
 
 Mi plato favorito es la punta de anca acompañada de papa en casco.
 
-![Punta de anca con papa en casco](Maria/punta_anca_papa_casco.png)
+<img width="447" height="447" alt="punta_anca_papa_casco" src="https://github.com/user-attachments/assets/049b09f5-f265-4553-a877-875d6afab0a9" />
+
