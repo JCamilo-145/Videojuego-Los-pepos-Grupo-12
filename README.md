@@ -53,7 +53,7 @@
 
 
 **Ubicación:** Bogotá, Colombia  
-**Rol:** Por definir 
+**Rol:** Diseñador
 
 Tengo 19 años y soy estudiante de Ingeniería de Sistemas e Ingeniería Multimedia. Me gusta la tecnología, la programación y aprender cosas nuevas.
 ### Mi plato favorito
