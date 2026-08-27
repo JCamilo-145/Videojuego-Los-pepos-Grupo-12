@@ -26,7 +26,7 @@
 
 ### Rol Entregas: Entregas
 ### Ubicación: Tesalia - Huila
-#### Perfil Breve: Mi nombre es Ever Daniel Medina Martinez, estudio Ingeniería Multimedia.
+#### Perfil Breve: Mi nombre es Ever Daniel Medina Martinez, estudio Ingeniería Multimedia y voy en séptimo semestre.
 
 
 ## Lina Fernanda Pantoja moreno 
